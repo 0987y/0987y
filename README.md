@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0987y
+- 👋 Hi, I’m Junu
 - 👀 I’m interested in programming but im in learning phase.
 - 🌱 I’m currently learning how to code using java.
 - 💞️ I’m looking to collaborate on basic programs and its errors.
